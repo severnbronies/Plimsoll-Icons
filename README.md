@@ -1,6 +1,7 @@
 A collection of icons specially made for [Plimsoll](https://github.com/severnbronies/Plimsoll) based on a rather unusual 26 pixel grid. 
 
-## Rough design rules
+Rough design rules
+------------------
 
 * No faux 3D. Make icons flat and two dimensional.
 * Outlined style. No heavy fills.
